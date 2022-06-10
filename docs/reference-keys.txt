@@ -7,3 +7,7 @@ turn-bookdown-tutorial-into-awesome-book
 publish-awesome-book
 moving-forward
 write
+motivacion-del-libro
+introduccion
+PCA
+introducción
