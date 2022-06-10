@@ -1,3 +1,2 @@
 # Analísis de Componentes Principales {#PCA}
 
-Algo
