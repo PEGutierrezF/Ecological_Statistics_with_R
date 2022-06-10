@@ -11,3 +11,4 @@ motivacion-del-libro
 introduccion
 PCA
 introducción
+rpart1

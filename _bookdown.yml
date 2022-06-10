@@ -4,7 +4,7 @@ language:
     chapter_name: "Capítulo "
 rmd_files: [
   "index.Rmd",
-  "setup.Rmd",
+  "rpart1.Rmd",
   "write.Rmd",
   "PCA.Rmd"]
 delete_merged_file: true 
