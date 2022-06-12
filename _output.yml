@@ -9,7 +9,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">R para ecología de Ríos</a></li>
       after: |
-        <li><a href="https://pegutierrezf.github.io/TropicalFreshwaterEcology/" target="blank">Mi investigación</a></li>
+        <li><a href="https://pegutierrezf.github.io/TropicalFreshwaterEcology/" target="blank">Págia personal</a></li>
+        <li><a href="https://github.com/PEGutierrezF" target="blank">Github</a></li>
     edit: https://github.com/jules32/bookdown-tutorial/edit/master/%s
     download: ["pdf"]
 #bookdown::pdf_book:
