@@ -12,4 +12,4 @@
 ----
 
 
-## Cómo instalar rStudio?
+## Cómo instalar RStudio?
