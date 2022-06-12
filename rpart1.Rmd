@@ -1,5 +1,15 @@
 # Introdución a R {#rpart1}
 
-- Soon
+## Qué es R?
 
 
+----
+
+
+## Cómo instalar R?
+
+
+----
+
+
+## Cómo instalar rStudio?

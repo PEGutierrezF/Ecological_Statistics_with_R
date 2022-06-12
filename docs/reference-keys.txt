@@ -3,3 +3,7 @@ learn-all-about-bookdown
 rpart1
 write
 PCA
+qué-es-r
+cómo-instalar-r
+cómo-instalar-rstudio
+datamani
