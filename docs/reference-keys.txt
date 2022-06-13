@@ -7,3 +7,5 @@ qué-es-r
 cómo-instalar-r
 cómo-instalar-rstudio
 datamani
+GAMS
+generalized-additive-models-gams
