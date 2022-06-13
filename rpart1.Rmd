@@ -3,13 +3,13 @@
 ## Qué es R?
 
 
-----
+---
 
 
 ## Cómo instalar R?
 
 
-----
+---
 
 
 ## Cómo instalar RStudio?
