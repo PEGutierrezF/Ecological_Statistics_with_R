@@ -9,3 +9,5 @@ cómo-instalar-rstudio
 datamani
 GAMS
 generalized-additive-models-gams
+atajos
+atajos-o-shortcuts-en-rstudio

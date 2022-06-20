@@ -1,0 +1,15 @@
+# Atajos (shortcuts) {#atajos}
+
+
+
+# Atajos o Shortcuts en Rstudio
+
+Rstudio ofrece una serie de atajos para agilizar algunas tareas.
+Acontinuación algunas atajos mas frecuentes
+
+
+1- Presionando 'ctrl + shift + M' puedes optener el '%>%' (dplyr: pipe operator), el cual se utiliza para decirle a RStudio que tu comando continua en la siguiente lines. 
+
+```{r cars}
+
+```
