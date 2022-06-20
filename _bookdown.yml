@@ -3,10 +3,10 @@ language:
   ui:
     chapter_name: "Capítulo "
 rmd_files: [
-  "index.Rmd",
-  "rpart1.Rmd",
-  "datamani.Rmd",
-  "atajos.Rmd",
+  "c1_index.Rmd",
+  "c2_rpart1.Rmd",
+  "c3_datamani.Rmd",
+  "c4_atajos.Rmd",
   "PCA.Rmd",
   "GAMS.Rmd"]
 delete_merged_file: true 

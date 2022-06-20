@@ -1,4 +1,0 @@
-
-# Manipulación de datos {#datamani}
-
-- En construcción

@@ -1,4 +1,4 @@
-# Introdución a R {#rpart1}
+# Introdución a R {#rc2_part1}
 
 ## Qué es R?
 
