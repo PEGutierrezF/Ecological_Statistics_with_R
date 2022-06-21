@@ -1,4 +1,4 @@
 # Modelos Aditivos Generalizados {#GAMS}
 
 
-- En construcción
+- En construcción.
