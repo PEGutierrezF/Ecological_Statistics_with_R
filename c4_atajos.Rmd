@@ -4,7 +4,9 @@
 
 **Atajos o Shortcuts en Rstudio**
 
-Rstudio ofrece una serie de atajos para agilizar algunas tareas.  A continuación algunas atajos mas frecuentes
+Rstudio ofrece una serie de atajos para agilizar algunas tareas.<br>
+
+A continuación, algunos de los atajos mas comunes y útiles:
 
 
 1- Presionando 'ctrl + shift + M' puedes optener el '%>%' (dplyr: pipe operator), el cual se utiliza para que tu comando continue en la siguient linea. 
