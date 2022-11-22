@@ -1,5 +1,5 @@
 --- 
-title: "R para ecología de ríos"
+title: "Ecological Statistics with R"
 author: "Pablo E. Gutiérrez-Fonseca"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
