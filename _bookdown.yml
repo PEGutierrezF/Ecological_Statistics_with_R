@@ -1,7 +1,7 @@
 book_filename: "series"
 language:
   ui:
-    chapter_name: "Capítulo "
+    chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
   "c2_rpart1.Rmd",

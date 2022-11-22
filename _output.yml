@@ -7,7 +7,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">R para ecología de Ríos</a></li>
+        <li><a href="./">Ecological Statistics with R</a></li>
       after: |
         <li><a href="https://pegutierrezf.github.io/TropicalFreshwaterEcology/" target="blank">Págia personal</a></li>
         <li><a href="https://github.com/PEGutierrezF" target="blank">Github</a></li>
