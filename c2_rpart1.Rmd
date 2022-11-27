@@ -1,15 +1,15 @@
-# Introdución a R {#c2_rpart1}
+# Introduction to R {#c2_rpart1}
 
-## Qué es R?
-
-
----
-
-
-## Cómo instalar R?
+## What is R?
 
 
 ---
 
 
-## Cómo instalar RStudio?
+## How to install R?
+
+
+---
+
+
+## how to install RStudio?
