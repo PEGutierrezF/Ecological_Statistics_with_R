@@ -15,7 +15,8 @@ description: A mini bookdown tutorial book on how to make bookdown books.
 
 # Welcome {-}
 
-Poco a poco iré trabajando en consolidar pruebas estadísticas relevantes para el estudio de la ecología de ríos.  La idea es comenzar desde lo básico de cada prueba, las asunciones, cuando y por qué usarlas, para finalizar con algún ejemplo que ayude a ilustrar la prueba.
+Hi all. This book is intended to provide the necessary tools for the statistical analysis of ecological data with R. I hope you find this format simple and useful as you progress through statistical analysis and learning R.
 
-¡Nos hablamos durante el proceso!
+# Acknowledgements {-}
+
 
