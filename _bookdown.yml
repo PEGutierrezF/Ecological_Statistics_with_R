@@ -4,7 +4,7 @@ language:
     chapter_name: "Chapter"
 rmd_files: [
   "index.Rmd",
-  "Acknowledgements",
+  "Acknowledgements.Rmd",
   "c2_rpart1.Rmd",
   "c3_datamani.Rmd",
   "c4_atajos.Rmd",
