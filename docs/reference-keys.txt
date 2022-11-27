@@ -14,3 +14,5 @@ atajos-o-shortcuts-en-rstudio
 c2_rpart1
 c3_datamani
 c4_atajos
+Introduction
+welcome
