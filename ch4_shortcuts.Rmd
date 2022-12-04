@@ -1,8 +1,8 @@
-# Atajos (shortcuts) en RStudio {#c4_atajos}
+# RStudio Tips, Tricks, and Shortcuts {#ch4_shortcuts}
 
 
 
-**Atajos o Shortcuts en Rstudio**
+**Shortcuts in Rstudio**
 
 Rstudio ofrece una serie de atajos para agilizar algunas tareas cuando estas trabajando en R.<br>
 
