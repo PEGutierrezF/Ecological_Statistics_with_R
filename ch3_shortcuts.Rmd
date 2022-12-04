@@ -4,15 +4,23 @@
 
 **Shortcuts in Rstudio**
 
-Rstudio ofrece una serie de atajos para agilizar algunas tareas cuando estas trabajando en R.<br>
+Rstudio offers a series of shortcuts to speed up some tasks when you are working in R.<br>
 
-A continuación, algunos de los atajos mas comunes y útiles:
+Here are some of the most common and useful shortcuts:
 
+</br>
 
-1- Presionando **ctrl + shift + M** puedes obtener el **%>%** (dplyr: pipe operator), el cual se utiliza para que la línea de comandos continue en la siguiente línea. 
+**Working on the Code Editor **
 
-2- Presionando **Alt GR + -** puedes obtener el **<-**, el cual se utiliza para designar elementos en R.
+1- Press **Alt GR + -** you can get the **<-**, which is used to designate elements in R.
 
-```{r cars}
+2- Hide code: press **Alt + L**.
 
-```
+3- Execute code: press **Ctrl+Enter** when executing the code line by line. <br>
+**Ctrl+Alt+R** to run the complete code.
+
+</br>
+
+**Working in _dplyr_**
+
+1- Press **ctrl + shift + M** you can get the **%>%** (dplyr: pipe operator), which is used to make the command line continue on the next line.
