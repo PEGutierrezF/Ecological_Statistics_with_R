@@ -7,7 +7,7 @@ rmd_files: [
   "Acknowledgements.Rmd",
   "c2_rpart1.Rmd",
   "c3_datamani.Rmd",
-  "ch4_shortcuts.Rmd",
+  "ch3_shortcuts.Rmd",
   "PCA.Rmd",
   "GAMS.Rmd"]
 delete_merged_file: true 

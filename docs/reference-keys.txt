@@ -20,3 +20,4 @@ what-is-r
 how-to-install-r
 how-to-install-rstudio
 ch4_shortcuts
+ch3_shortcuts
