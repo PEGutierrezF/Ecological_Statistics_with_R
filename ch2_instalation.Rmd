@@ -11,19 +11,45 @@ R is an open source programming language for statistical and data analysis.
 
 **Downloading R for the first time**
 <br/>
-**Step 1**
+
+**Step 1**<br/>
 Go to https://www.r-project.org/
 <br/>
 
-**Step 2**
+**Step 2**<br/>
 In the left hand corner under Download click CRAN.
-
-<p><img src="D:/OneDrive - University of Vermont/Curriculum/19_ Personal webpage/TropicalFreshwaterEcology/pages/Lectures/Appl.Stats.in.R/fig/step1.jpg" width="70%" style="display: block; margin: auto;" /></p>
-
-
 <center>
-<img src="D:/OneDrive - University of Vermont/Curriculum/19_ Personal webpage/TropicalFreshwaterEcology/_pages/Lectures/Appl.Stats.in.R/fig/step1.jpg">
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step1.jpg" width="15%" style="display: block; margin: auto;" />
 </center>
+
+<br/>
+
+**Step 3**<br/>
+Select one from this list, and download it using the appropriate link for your computer system.
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step3.jpg" width="75%" style="display: block; margin: auto;" />
+</center>
+
+<br/>
+
+**Step 4**<br/>
+Click base.
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step4.jpg" width="75%" style="display: block; margin: auto;" />
+</center>
+
+<br/>
+
+**Step 5**<br/>
+Download R and follow the typical downloading and installation prompts associated with your computer. system
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step5.jpg" width="75%" style="display: block; margin: auto;" />
+</center>
+
+
+<br/>
+<br/>
+
 ---
 
 
