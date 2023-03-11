@@ -9,7 +9,17 @@ R is an open source programming language for statistical and data analysis.
 
 ## How to install R?
 
+**Downloading R for the first time**
+<br/>
+**Step 1**
+Go to https://www.r-project.org/
+<br/>
 
+**Step 2**
+In the left hand corner under Download click CRAN.
+<center>
+<img src="D:/OneDrive - University of Vermont/Curriculum/19_ Personal webpage/TropicalFreshwaterEcology/_pages/Lectures/Appl.Stats.in.R/fig/step1.jpg">
+</center>
 ---
 
 
