@@ -7,8 +7,6 @@ rmd_files: [
   "Acknowledgements.Rmd",
   "ch2_instalation.Rmd",
   "c3_datamani.Rmd",
-  "ch3_shortcuts.Rmd",
-  "PCA.Rmd",
-  "GAMS.Rmd"]
+  "ch3_shortcuts.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
