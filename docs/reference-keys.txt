@@ -21,3 +21,5 @@ how-to-install-r
 how-to-install-rstudio
 ch4_shortcuts
 ch3_shortcuts
+ch2_intro
+ch2_instalation

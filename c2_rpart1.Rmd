@@ -1,7 +1,8 @@
-# Introduction to R {#c2_rpart1}
+# Introduction to R {#ch2_instalation}
 
 ## What is R?
 
+R is an open source programming language for statistical and data analysis.
 
 ---
 
@@ -12,4 +13,4 @@
 ---
 
 
-## how to install RStudio?
+## How to install RStudio?
