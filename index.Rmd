@@ -15,6 +15,6 @@ description: A mini bookdown tutorial book on how to make bookdown books.
 
 # Welcome {-}
 
-Hi all. This book is intended to provide the necessary tools for the statistical analysis of ecological data with R. I hope you find this format simple and useful as you progress through statistical literacy and learning R.
+Hi all. This book is intended to provide the basic tools for the statistical analysis of ecological data with R. I hope you find this format simple and useful as you progress through statistical literacy and learning R.
 
 
