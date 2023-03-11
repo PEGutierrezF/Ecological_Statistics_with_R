@@ -17,6 +17,10 @@ Go to https://www.r-project.org/
 
 **Step 2**
 In the left hand corner under Download click CRAN.
+
+<p><img src="D:/OneDrive - University of Vermont/Curriculum/19_ Personal webpage/TropicalFreshwaterEcology/pages/Lectures/Appl.Stats.in.R/fig/step1.jpg" width="70%" style="display: block; margin: auto;" /></p>
+
+
 <center>
 <img src="D:/OneDrive - University of Vermont/Curriculum/19_ Personal webpage/TropicalFreshwaterEcology/_pages/Lectures/Appl.Stats.in.R/fig/step1.jpg">
 </center>
