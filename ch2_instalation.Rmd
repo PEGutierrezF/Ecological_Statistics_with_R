@@ -45,8 +45,6 @@ Download R and follow the typical downloading and installation prompts associate
 <center>
 <img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step5.jpg" width="75%" style="display: block; margin: auto;" />
 </center>
-
-
 <br/>
 <br/>
 
@@ -54,3 +52,40 @@ Download R and follow the typical downloading and installation prompts associate
 
 
 ## How to install RStudio?
+
+
+**Downloading R Studio for the first time.**
+<br/>
+
+**Step 1**  
+Go to https://www.rstudio.com/
+<br/>
+<br/>
+
+**Step 2**  
+Scroll down and click on **Download Free Desktop IDE**
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step7.jpg">
+</center>
+<br/>
+<br/>
+
+**Step 3**  
+Pick a version. Free has all of the tools you will need for this course.
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step8.jpg">
+</center>
+<br/>
+<br/>
+
+**Step 9**  
+Select one from this list. Download and install it using the appropriate link for your computer system.
+<center>
+<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step9.jpg">
+</center>
+<br/>
+<br/>
+
+**YAY! You are now ready to explore the unlimited world of Statistics!!!**
+<br/>
+<br/>
