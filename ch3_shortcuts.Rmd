@@ -4,20 +4,22 @@
 
 **Shortcuts in Rstudio**
 
-Rstudio offers a series of shortcuts to speed up some tasks when you are working in R.<br>
+RStudio provides a variety of keyboard shortcuts that can help R users save time and streamline their workflows.<br>
 
-Here are some of the most common and useful shortcuts:
+Here are some of the most common and useful shortcuts for working in the code editor:
 
 </br>
 
 **Working on the Code Editor **
 
-1- Press **Alt GR + -** you can get the **<-**, which is used to designate elements in R.
+1- To quickly insert the **<-** symbol, which is used to assign values in R, press **Alt GR + -** on your keyboard.
 
-2- Hide code: press **Alt + L**.
 
-3- Execute code: press **Ctrl+Enter** when executing the code line by line. <br>
-**Ctrl+Alt+R** to run the complete code.
+2- To hide the code pane, press **Alt + L**.
+
+3- To execute code, use these shortcuts:
+    Press **Ctrl + Enter** to run the current line of code.
+    Press **Ctrl + Alt + R** to run the entire code.
 
 </br>
 
