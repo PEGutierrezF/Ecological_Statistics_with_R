@@ -8,17 +8,15 @@ RStudio provides a variety of keyboard shortcuts that can help R users save time
 
 Here are some of the most common and useful shortcuts for working in the code editor:
 
-</br>
-
 **Working on the Code Editor **
 
-1- To quickly insert the **<-** symbol, which is used to assign values in R, press **Alt GR + -** on your keyboard.
+* To quickly insert the **<-** symbol, which is used to assign values in R, press **Alt GR + -** on your keyboard.
 
-2- To hide the code pane, press **Alt + L**.
+* To hide the code pane, press **Alt + L**.
 
-3- To execute code, use these shortcuts:<br>
-      - Press **Ctrl + Enter** to run the current line of code.<br>
-      - Press **Ctrl + Alt + R** to run the entire code.
+* To execute code, use these shortcuts:<br>
+  * Press **Ctrl + Enter** to run the current line of code.<br>
+  * Press **Ctrl + Alt + R** to run the entire code.
 
 </br>
 
