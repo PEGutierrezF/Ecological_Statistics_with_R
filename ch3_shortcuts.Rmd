@@ -8,6 +8,19 @@ RStudio provides a variety of keyboard shortcuts that can help R users save time
 
 Here are some of the most common and useful shortcuts for working in the code editor:
 
+**Working on RMarkdown **
+
+* The command to clear all variables from the environment (workspace)
+```{r}
+rm(list=ls())
+```
+
+* To insert an R code chunk in your R Markdown document, press Press **Ctrl + Alt + I** This shortcut can save you time when you want to quickly add new chunks to your document. Once the chunk is inserted, you can add your R code inside the curly braces (**{}**) and specify any chunk options, such as the chunk label, the type of output, and any additional settings.
+```{r}
+# Insert R code here.
+```
+
+
 **Working on the Code Editor **
 
 * To quickly insert the **<-** symbol, which is used to assign values in R, press **Alt GR + -** on your keyboard.
@@ -20,6 +33,11 @@ Here are some of the most common and useful shortcuts for working in the code ed
 
 </br>
 
-**Working in _dplyr_**
+**Working in _dplyr_**  
 
-1- Press **ctrl + shift + M** you can get the **%>%** (dplyr: pipe operator), which is used to make the command line continue on the next line.
+dplyr is a powerful R package for data manipulation. 
+
+* To quickly insert the pipe operator into your code, use the following keyboard shortcut, press **Ctrl + Shift + M** to insert **%>%**. This shortcut can save you time and help make your code more readable by breaking up long chains of commands into multiple lines.
+
+</br>
+</br>
