@@ -14,12 +14,11 @@ Here are some of the most common and useful shortcuts for working in the code ed
 
 1- To quickly insert the **<-** symbol, which is used to assign values in R, press **Alt GR + -** on your keyboard.
 
-
 2- To hide the code pane, press **Alt + L**.
 
-3- To execute code, use these shortcuts:
-    Press **Ctrl + Enter** to run the current line of code.
-    Press **Ctrl + Alt + R** to run the entire code.
+3- To execute code, use these shortcuts:<br>
+      - Press **Ctrl + Enter** to run the current line of code.<br>
+      - Press **Ctrl + Alt + R** to run the entire code.
 
 </br>
 
