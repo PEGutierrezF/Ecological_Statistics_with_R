@@ -5,8 +5,8 @@ language:
 rmd_files: [
   "index.Rmd",
   "Acknowledgements.Rmd",
-  "ch2_instalation.Rmd",
-  "c3_datamani.Rmd",
+  "ch2_introduction.Rmd",
+  "ch2_R_basic.Rmd",
   "ch3_shortcuts.Rmd"]
 delete_merged_file: true 
 output_dir: "docs"
