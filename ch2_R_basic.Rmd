@@ -1,4 +1,4 @@
-# R Basic {#ch2_introduction}
+# R Basic {#ch2_R_basic}
 
 
 ## R programming basics
