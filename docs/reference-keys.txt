@@ -29,3 +29,4 @@ step-5
 downloading-r-studio-for-the-first-time
 references-and-other-resources
 ch2_introduction
+r-programming-basics

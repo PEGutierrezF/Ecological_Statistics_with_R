@@ -1,4 +1,7 @@
 # R Basic {#ch2_introduction}
-RparaEcologiadeRios
 
-  soon
+
+## R programming basics
+
+**Basic arithmetic functions**
+<br/>
