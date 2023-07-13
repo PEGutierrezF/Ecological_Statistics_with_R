@@ -19,7 +19,7 @@ Go to https://www.r-project.org/
 **Step 2**<br/>
 In the left hand corner under Download click CRAN.
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step1.jpg" width="15%" style="display: block; margin: auto;" />
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step1.jpg" width="15%" style="display: block; margin: auto;" />
 </center>
 
 <br/>
@@ -27,7 +27,7 @@ In the left hand corner under Download click CRAN.
 **Step 3**<br/>
 Select one from this list, and download it using the appropriate link for your computer system.
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step3.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step3.jpg" width="75%" style="display: block; margin: auto;" />
 </center>
 
 <br/>
@@ -35,7 +35,7 @@ Select one from this list, and download it using the appropriate link for your c
 **Step 4**<br/>
 Click base.
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step4.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step4.jpg" width="75%" style="display: block; margin: auto;" />
 </center>
 
 <br/>
