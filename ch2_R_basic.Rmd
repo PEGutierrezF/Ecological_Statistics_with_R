@@ -3,5 +3,20 @@
 
 ## R programming basics
 
+**Setting up your working directory**
+<br/>
+
+**If you want to find out the name of the current working directory, use:**<br/>
+```{r}
+getwd()
+```
+<br/>
+
+**Change directory**
+```{r, eval=F}
+setwd ("C:/users/Pablo Guti/desktop/")
+```
+<br/>
+
 **Basic arithmetic functions**
 <br/>
