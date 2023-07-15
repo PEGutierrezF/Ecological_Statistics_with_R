@@ -1,9 +1,7 @@
 # R Basic {#ch2_R_basic}
 
 
-## R programming basics
-
-**Setting up your working directory**
+## Setting up your working directory
 <br/>
 
 **If you want to find out the name of the current working directory, use:**<br/>
@@ -18,5 +16,7 @@ setwd ("C:/users/Pablo Guti/desktop/")
 ```
 <br/>
 
-**Basic arithmetic functions**
+
+## Basic arithmetic functions
 <br/>
+

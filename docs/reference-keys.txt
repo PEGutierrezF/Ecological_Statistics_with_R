@@ -31,3 +31,5 @@ references-and-other-resources
 ch2_introduction
 r-programming-basics
 ch2_R_basic
+setting-up-your-working-directory
+basic-arithmetic-functions
