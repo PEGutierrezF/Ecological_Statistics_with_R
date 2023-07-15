@@ -151,7 +151,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="2.1" data-path="ch2_R_basic.html"><a href="ch2_R_basic.html#setting-up-your-working-directory"><i class="fa fa-check"></i><b>2.1</b> Setting up your working directory</a></li>
 <li class="chapter" data-level="2.2" data-path="ch2_R_basic.html"><a href="ch2_R_basic.html#basic-arithmetic-functions"><i class="fa fa-check"></i><b>2.2</b> Basic arithmetic functions</a></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="ch3_shortcuts.html"><a href="ch3_shortcuts.html"><i class="fa fa-check"></i><b>3</b> RStudio Tips, Tricks, and Shortcuts</a></li>
+<li class="chapter" data-level="3" data-path="ch3_shortcuts.html"><a href="ch3_shortcuts.html"><i class="fa fa-check"></i><b>3</b> RStudio Tips, Tricks, and Shortcuts</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="ch3_shortcuts.html"><a href="ch3_shortcuts.html#working-on-rmarkdown"><i class="fa fa-check"></i><b>3.1</b> Working on RMarkdown</a></li>
+<li class="chapter" data-level="3.2" data-path="ch3_shortcuts.html"><a href="ch3_shortcuts.html#working-on-the-code-editor"><i class="fa fa-check"></i><b>3.2</b> Working on the Code Editor</a></li>
+<li class="chapter" data-level="3.3" data-path="ch3_shortcuts.html"><a href="ch3_shortcuts.html#working-in-dplyr"><i class="fa fa-check"></i><b>3.3</b> Working in <em>dplyr</em></a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://pegutierrezf.github.io/TropicalFreshwaterEcology/" target="blank">Guti website</a></li>
 <li><a href="https://github.com/PEGutierrezF" target="blank">Github</a></li>
@@ -182,28 +187,32 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li>The command to clear all variables from the environment (workspace)</li>
 </ul>
 <div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="ch3_shortcuts.html#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(<span class="at">list=</span><span class="fu">ls</span>())</span></code></pre></div>
-<p></br>
-<strong>Working on RMarkdown</strong></p>
+<div id="working-on-rmarkdown" class="section level2 hasAnchor" number="3.1">
+<h2><span class="header-section-number">3.1</span> Working on RMarkdown<a href="ch3_shortcuts.html#working-on-rmarkdown" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <ul>
 <li>To insert an R code chunk in your R Markdown document, press Press <strong>Ctrl + Alt + I</strong> This shortcut can save you time when you want to quickly add new chunks to your document. Once the chunk is inserted, you can add your R code inside the curly braces (<strong>{}</strong>) and specify any chunk options, such as the chunk label, the type of output, and any additional settings.</li>
 </ul>
 <div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="ch3_shortcuts.html#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Insert R code here.</span></span></code></pre></div>
 <ul>
-<li>To output your R Markdown document in the format specified in your YAML header, you can use the keyboard shortcut <strong>Command + Shift + K</strong> on a Mac, or <strong>Ctrl + Shift + K</strong> on Linux and Windows. The “k” in the shortcut stands for “knit,” which refers to the process of rendering the R code and output in the document.<br> When you use this shortcut, RStudio will compile your R Markdown document and produce the output in the specified format, such as HTML, PDF, or Word. The resulting document can be saved and shared with others, and can be a great way to communicate your analysis or findings in a clear and concise manner.</li>
+<li>To output your R Markdown document in the format specified in your YAML header, you can use the keyboard shortcut <strong>Command + Shift + K</strong> on a Mac, or <strong>Ctrl + Shift + K</strong> on Linux and Windows. The “k” in the shortcut stands for “knit,” which refers to the process of rendering the R code and output in the document.<br> When you use this shortcut, RStudio will compile your R Markdown document and produce the output in the specified format, such as HTML, PDF, or Word. The resulting document can be saved and shared with others, and can be a great way to communicate your analysis or findings in a clear and concise manner.
+</br></li>
 </ul>
-<p></br>
-<strong>Working on the Code Editor </strong></p>
+</div>
+<div id="working-on-the-code-editor" class="section level2 hasAnchor" number="3.2">
+<h2><span class="header-section-number">3.2</span> Working on the Code Editor<a href="ch3_shortcuts.html#working-on-the-code-editor" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <ul>
 <li><p>To quickly insert the <strong>&lt;-</strong> symbol, which is used to assign values in R, press <strong>Alt GR + -</strong> on your keyboard.</p></li>
 <li><p>To hide the code pane, press <strong>Alt + L</strong>.</p></li>
 <li><p>To execute code, use these shortcuts:<br></p>
 <ul>
 <li>Press <strong>Ctrl + Enter</strong> to run the current line of code.<br></li>
-<li>Press <strong>Ctrl + Alt + R</strong> to run the entire code.</li>
+<li>Press <strong>Ctrl + Alt + R</strong> to run the entire code.
+</br></li>
 </ul></li>
 </ul>
-<p></br>
-<strong>Working in <em>dplyr</em></strong></p>
+</div>
+<div id="working-in-dplyr" class="section level2 hasAnchor" number="3.3">
+<h2><span class="header-section-number">3.3</span> Working in <em>dplyr</em><a href="ch3_shortcuts.html#working-in-dplyr" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>dplyr is a powerful R package for data manipulation.</p>
 <ul>
 <li>To quickly insert the pipe operator into your code, use the following keyboard shortcut, press <strong>Ctrl + Shift + M</strong> to insert <strong>%&gt;%</strong>. This shortcut can save you time and help make your code more readable by breaking up long chains of commands into multiple lines.</li>
@@ -211,6 +220,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p></br>
 </br></p>
 
+</div>
 </div>
             </section>
 

@@ -33,3 +33,6 @@ r-programming-basics
 ch2_R_basic
 setting-up-your-working-directory
 basic-arithmetic-functions
+working-on-rmarkdown
+working-on-the-code-editor
+working-in-dplyr
