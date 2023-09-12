@@ -2,7 +2,7 @@
 
 ## What is R?
 
-R is a programming language and open-source software environment primarily used for statistical computing and data analysis. It was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, in the early 1990s. R is known for its powerful data manipulation and statistical analysis capabilities, making it a popular choice among statisticians, data scientists, and researchers for tasks such as data exploration, visualization, modeling, and hypothesis testing.
+R is a programming language and open-source software environment primarily used for statistical computing and data analysis. It was created by [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/?Ross_Ihaka) and [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) at the University of Auckland, New Zealand, in the early 1990s. R is known for its powerful data manipulation and statistical analysis capabilities, making it a popular choice among statisticians, data scientists, and researchers for tasks such as data exploration, visualization, modeling, and hypothesis testing.
 
 ---
 
