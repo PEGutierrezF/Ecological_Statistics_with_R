@@ -43,7 +43,7 @@ Click base.
 **Step 5**<br/>
 Download R and follow the typical downloading and installation prompts associated with your computer. system
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step5.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step5.jpg" width="75%" style="display: block; margin: auto;" />
 </center>
 <br/>
 <br/>
@@ -65,7 +65,7 @@ Go to https://www.rstudio.com/
 **Step 2**  
 Scroll down and click on **Download Free Desktop IDE**
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step7.jpg">
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step7.jpg">
 </center>
 <br/>
 <br/>
@@ -73,7 +73,7 @@ Scroll down and click on **Download Free Desktop IDE**
 **Step 3**  
 Pick a version. Free has all of the tools you will need for this course.
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step8.jpg">
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step8.jpg">
 </center>
 <br/>
 <br/>
@@ -81,7 +81,7 @@ Pick a version. Free has all of the tools you will need for this course.
 **Step 4**  
 Select one from this list. Download and install it using the appropriate link for your computer system.
 <center>
-<img src="D:\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step9.jpg">
+<img src="C:\Users\Guti\OneDrive - University of Vermont\Curriculum\19_ Personal webpage\book_R_ecologia_Rios\figures\step9.jpg">
 </center>
 <br/>
 <br/>
