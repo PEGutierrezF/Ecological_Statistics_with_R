@@ -20,10 +20,12 @@ setwd ("C:/users/Pablo Guti/desktop/my_project/")
 <br/>
 
 ### Choose a New Working Directory using RStudio Interface<br/>
-Click on the **Session** menu at the top of the RStudio window.<br/>
-Select **Set Working Directory**.<br/>
-Choose **Choose Directory** to navigate to and select the folder you want as your new working directory.
+In RStudio, you can also set your working directory interactively through the graphical interface:
 
+* Click on the **Session** menu at the top of the RStudio window.<br/>
+* Select **Set Working Directory**.<br/>
+* Choose **Choose Directory** to navigate to and select the folder you want as your new working directory.
+* To verify that your working directory has been set correctly, you can use the ``getwd()`` function.
 
 ## Basic arithmetic functions
 <br/>
