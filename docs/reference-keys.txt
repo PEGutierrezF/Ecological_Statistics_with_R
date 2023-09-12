@@ -36,3 +36,6 @@ basic-arithmetic-functions
 working-on-rmarkdown
 working-on-the-code-editor
 working-in-dplyr
+choose-a-new-working-directory
+check-the-current-working-directory
+choose-a-new-working-directory-using-rstudio-interface

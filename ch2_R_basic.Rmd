@@ -4,17 +4,25 @@
 ## Setting up your working directory
 <br/>
 
-**If you want to find out the name of the current working directory, use:**<br/>
+### Check the Current Working Directory<br/>
+To determine your current working directory, use the **getwd()** function. Type the following command in the R console and press Enter:
 ```{r}
 getwd()
 ```
 <br/>
 
-**Change directory**
+### Choose a New Working Directory<br/>
+Decide on a folder on your computer to set as your working directory. This folder will be where R looks for and saves files by default.<br/>
+You can use the setwd() function. For example, to set your working directory to a folder named "my_project" on your desktop, run this command:
 ```{r, eval=F}
-setwd ("C:/users/Pablo Guti/desktop/")
+setwd ("C:/users/Pablo Guti/desktop/my_project/")
 ```
 <br/>
+
+### Choose a New Working Directory using RStudio Interface<br/>
+Click on the "Session" menu at the top of the RStudio window.<br/>
+Select "Set Working Directory."<br/>
+Choose "Choose Directory" to navigate to and select the folder you want as your new working directory.
 
 
 ## Basic arithmetic functions
